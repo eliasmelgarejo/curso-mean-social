@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"xml",
+				"xmlDoc"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"c",
+				"color1"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"col",
+				"collapse"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"ce",
+				"censer-site"
+			],
+			[
+				"ca",
+				"carousel-item"
+			],
+			[
+				"conta",
+				"container-fluide"
+			],
+			[
+				"cont",
+				"container-fluide"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"class",
+				"class\tAttr"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"btn",
+				"button\tTag"
+			],
+			[
+				"FO",
+				"font-size"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"F",
+				"F60"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"onKe",
+				"onkeyup\tAttr"
+			],
+			[
+				"onK",
+				"onkeypress\tAttr"
+			],
+			[
+				"exp",
+				"expRegTelefono"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"expRe",
+				"expRegEmail"
+			],
+			[
+				"men",
+				"_mensaje"
+			],
+			[
+				"web",
+				"_web"
+			],
+			[
+				"ema",
+				"_email"
+			],
+			[
+				"ap",
+				"_apellido"
+			],
+			[
+				"me",
+				"_mensaje"
+			],
+			[
+				"tele",
+				"_telefono"
+			],
+			[
+				"we",
+				"_web"
+			],
+			[
+				"em",
+				"_email"
+			],
+			[
+				"di",
+				"_direccion"
+			],
+			[
+				"a",
+				"_apellido"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"for",
+				"formulario"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"d",
+				"diaSemana"
+			],
+			[
+				"pD",
+				"pDiaSemana"
+			],
+			[
+				"dia",
+				"dia"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 587.0
+	},
+	"console":
+	{
+		"height": 504.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Xampp/htdocs/censer-site/index.html",
+		"/C/Xampp/htdocs/censer-site/prueba.html",
+		"/C/Xampp/htdocs/censer-site/leer_un_txt.html",
+		"/C/Xampp/htdocs/censer-site/leer_un_xml.html",
+		"/C/Xampp/htdocs/censer-site/aja.xml",
+		"/C/Xampp/htdocs/censer-site/cd_catalog.xml",
+		"/C/Xampp/htdocs/censer-site/ajax.txt",
+		"/C/Xampp/htdocs/censer-site/ejemploXML.xml",
+		"/C/Users/SupervisorTI/Documents/HelpNDoc/Templates/html/Bootstrap HTML Template/index.pas.html",
+		"/C/Users/SupervisorTI/Documents/HelpNDoc/Templates/html/Bootstrap HTML Template/topics.pas.html",
+		"/C/Users/SupervisorTI/Documents/HelpNDoc/Templates/html/Bootstrap HTML Template/toc.pas.html",
+		"/C/Xampp/htdocs/quick/STI_tutorial.html",
+		"/C/Xampp/htdocs/quick/toc.html",
+		"/C/Xampp/htdocs/quick/ManualdelUsuarioSistemadeTallerI.html",
+		"/C/Xampp/htdocs/quick/PrimerosPasos.html",
+		"/C/Xampp/htdocs/quick/EspaciodelDesarrollador.html",
+		"/C/Xampp/htdocs/quick/Definiciones.html",
+		"/C/Xampp/htdocs/quick/ModuloSolicituddeGarantias.html",
+		"/C/Xampp/htdocs/quick/STI tutorial.html",
+		"/C/Users/SupervisorTI/Documents/Proyectos docs/quick/Definiciones.html",
+		"/C/Users/SupervisorTI/Documents/Proyectos docs/quick/ManualdelUsuarioSistemadeTallerI.html",
+		"/C/xampp/htdocs/censer-tutoriales/index.html",
+		"/C/Users/SupervisorTI/Documents/Proyectos docs/quick/STI tutorial.html",
+		"/C/xampp/htdocs/censer-tutoriales/css/full-slider.css",
+		"/C/xampp/htdocs/censer-tutoriales/ViewerJS/index.html",
+		"/C/xampp/htdocs/censer-taller/index.html",
+		"/C/xampp/htdocs/censer-taller/pages/form-viewer.html",
+		"/C/xampp/htdocs/censer-taller/vendor/bootstrap/js/bootstrap-pdf-viewer.js",
+		"/C/xampp/htdocs/censer-taller/vendor/bootstrap/js/bootstrap-pdf-form-viewer.js",
+		"/C/xampp/htdocs/censer-taller/vendor/bootstrap/js/bootstrap-pdf-form-common.js",
+		"/C/xampp/htdocs/censer-taller/vendor/bootstrap/js/bootstrap-pdf-form-builder.js",
+		"/C/xampp/htdocs/censer-taller/lib/pdf.js",
+		"/C/xampp/htdocs/censer-taller/vendor/bootstrap/css/bootstrap-pdf-viewer.css",
+		"/C/xampp/htdocs/censer-taller/vendor/bootstrap/css/bootstrap-pdf-form-viewer.css",
+		"/C/xampp/htdocs/censer-taller/vendor/bootstrap/css/bootstrap-pdf-form-builder.css",
+		"/C/xampp/htdocs/censer-site/index.html",
+		"/C/nodejs_webapp/myapp2/app.js",
+		"/C/nodejs_webapp/myapp/app.js",
+		"/C/xampp/htdocs/censer-site/css/full-slider.css",
+		"/C/xampp/htdocs/censer-site/pages/suzuki.html",
+		"/C/xampp/htdocs/censer-site/pages/ssangyong.html",
+		"/C/xampp/htdocs/censer-site/pages/foton.html",
+		"/C/xampp/htdocs/censer-site/pages/haima.html",
+		"/C/xampp/htdocs/mysite/index.html",
+		"/C/xampp/htdocs/mysite/pages/foton.html",
+		"/C/xampp/htdocs/mysite/pages/haima.html",
+		"/C/xampp/htdocs/mysite/pages/suzuki.html",
+		"/C/xampp/htdocs/mysite/pages/ssangyong.html",
+		"/C/xampp/htdocs/mysite/css/full-slider.css",
+		"/C/Users/SupervisorTI/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/startbootstrap-full-slider-gh-pages/pages/suzuki.html",
+		"/C/xampp/htdocs/bootstrap/site/js/jquery.js",
+		"/C/xampp/htdocs/bootstrap/site/index.html",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/JAVASCRIPT/fuentes/tarea2/css/estilo.css",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/JAVASCRIPT/fuentes/tarea2/js/script.js",
+		"/C/Users/SupervisorTI/Pictures/frmListadoCuerpo.png",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/JAVASCRIPT/fuentes/tarea2/index.html",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/JAVASCRIPT/fuentes/reloj/reloj.js",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/JAVASCRIPT/fuentes/reloj/estilos.css",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/JAVASCRIPT/fuentes/reloj/index.html",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/JAVASCRIPT/fuentes/fondoimg.html",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/JAVASCRIPT/fuentes/javascript.js",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/JAVASCRIPT/fuentes/estilos.css",
+		"/C/webapps/agerapp/Lib/site-packages/django/contrib/staticfiles/finders.py",
+		"/C/Users/SupervisorTI/Downloads/ResponsiveRetinaReadyMenu/ResponsiveRetinaReadyMenu/README.md",
+		"/C/Users/SupervisorTI/Downloads/ResponsiveRetinaReadyMenu/ResponsiveRetinaReadyMenu/index.html",
+		"/C/Users/SupervisorTI/Downloads/css3-buttons/buttons/buttons.css",
+		"/C/Users/SupervisorTI/Downloads/css3-buttons/css/page.css",
+		"/C/Users/SupervisorTI/Downloads/css3-buttons/css3-buttons.html",
+		"/C/Users/SupervisorTI/Desktop/charts.html",
+		"/C/Users/SupervisorTI/Downloads/Django-Chart.js-master/Django-Chart.js-master/src/templates/charts.html",
+		"/C/Users/SupervisorTI/Downloads/Django-Chart.js-master/Django-Chart.js-master/src/templates/base.html",
+		"/C/site/index.html",
+		"/C/workspaces/django-chartjs/demo/demoproject/templates/base.html",
+		"/C/workspaces/django-chartjs/demo/demoproject/templates/colors.html",
+		"/C/workspaces/django-chartjs/demo/demoproject/templates/home.html",
+		"/C/workspaces/django-chartjs/demo/demoproject/templates/line_chart.html",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/ORACLE/Scripts-20170316/00_CREATBLSP.sql",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/ORACLE/Scripts-20170316/01_CRDBA.sql",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/ORACLE/Scripts-20170316/02_CREA_USR.sql",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/ORACLE/Scripts-20170316/03_GRANT_USR.sql",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/ORACLE/Scripts-20170316/04_CREATAB_ESP.sql",
+		"/C/Users/SupervisorTI/Documents/Formación Personal/SNPP/ORACLE/Scripts-20170316/05_INS_DATOS.sql",
+		"/C/Users/SupervisorTI/Documents/Visual Studio 2015/Projects/MyPDVApp/Servicios/bin/Debug/Servicios.dll.config",
+		"/C/Users/SupervisorTI/Documents/Visual Studio 2015/Projects/MyPDVApp/ServiciosConfiguracion/bin/Debug/ServiciosConfiguracion.dll.config",
+		"/C/Users/SupervisorTI/Documents/index.html",
+		"/C/Program Files (x86)/IT Asset Tool/Server/DaemonIAT.InstallState",
+		"/C/Program Files (x86)/IT Asset Tool/unins000.dat",
+		"/C/Users/SupervisorTI/Documents/Virtual Machines/Other Linux 2.6.x kernel 64-bit/Other Linux 2.6.x kernel 64-bit.vmx",
+		"/C/Users/SupervisorTI/Documents/Virtual Machines/Xenserver/Xenserver.vmxf"
+	],
+	"find":
+	{
+		"height": 40.8
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-mean-social.sublime-project",
+	"replace":
+	{
+		"height": 59.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 353.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 384.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
